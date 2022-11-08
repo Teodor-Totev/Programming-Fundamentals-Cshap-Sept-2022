@@ -1,0 +1,14 @@
+D:\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.exe
+D:\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.deps.json
+D:\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.json
+D:\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.dev.json
+D:\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.dll
+D:\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.pdb
+D:\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.AssemblyReference.cache
+D:\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfoInputs.cache
+D:\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfo.cs
+D:\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.CoreCompileInputs.cache
+D:\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.dll
+D:\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.pdb
+D:\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.genruntimeconfig.cache
