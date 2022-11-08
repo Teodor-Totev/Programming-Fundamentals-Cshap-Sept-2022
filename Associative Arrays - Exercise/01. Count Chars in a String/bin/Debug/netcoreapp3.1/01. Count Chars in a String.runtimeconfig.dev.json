@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tedi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tedi\\.nuget\\packages"
+    ]
+  }
+}

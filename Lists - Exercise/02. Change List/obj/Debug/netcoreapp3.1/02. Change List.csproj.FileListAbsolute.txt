@@ -1,0 +1,14 @@
+D:\repos\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.exe
+D:\repos\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.deps.json
+D:\repos\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.json
+D:\repos\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.dev.json
+D:\repos\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.dll
+D:\repos\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.pdb
+D:\repos\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.csproj.AssemblyReference.cache
+D:\repos\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfoInputs.cache
+D:\repos\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfo.cs
+D:\repos\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.csproj.CoreCompileInputs.cache
+D:\repos\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.dll
+D:\repos\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.pdb
+D:\repos\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.genruntimeconfig.cache

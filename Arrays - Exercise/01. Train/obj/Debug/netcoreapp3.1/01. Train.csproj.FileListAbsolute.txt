@@ -1,0 +1,14 @@
+D:\repos\Arrays - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.exe
+D:\repos\Arrays - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.deps.json
+D:\repos\Arrays - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.json
+D:\repos\Arrays - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.dev.json
+D:\repos\Arrays - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.dll
+D:\repos\Arrays - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.pdb
+D:\repos\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.csproj.AssemblyReference.cache
+D:\repos\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfoInputs.cache
+D:\repos\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfo.cs
+D:\repos\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.csproj.CoreCompileInputs.cache
+D:\repos\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.dll
+D:\repos\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.pdb
+D:\repos\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.genruntimeconfig.cache

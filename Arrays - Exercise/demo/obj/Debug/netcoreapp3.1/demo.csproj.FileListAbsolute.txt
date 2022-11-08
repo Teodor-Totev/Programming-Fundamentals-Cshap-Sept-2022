@@ -1,0 +1,14 @@
+D:\repos\Arrays - Exercise\demo\bin\Debug\netcoreapp3.1\demo.exe
+D:\repos\Arrays - Exercise\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+D:\repos\Arrays - Exercise\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+D:\repos\Arrays - Exercise\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+D:\repos\Arrays - Exercise\demo\bin\Debug\netcoreapp3.1\demo.dll
+D:\repos\Arrays - Exercise\demo\bin\Debug\netcoreapp3.1\demo.pdb
+D:\repos\Arrays - Exercise\demo\obj\Debug\netcoreapp3.1\demo.csproj.AssemblyReference.cache
+D:\repos\Arrays - Exercise\demo\obj\Debug\netcoreapp3.1\demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Arrays - Exercise\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+D:\repos\Arrays - Exercise\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+D:\repos\Arrays - Exercise\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+D:\repos\Arrays - Exercise\demo\obj\Debug\netcoreapp3.1\demo.dll
+D:\repos\Arrays - Exercise\demo\obj\Debug\netcoreapp3.1\demo.pdb
+D:\repos\Arrays - Exercise\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache

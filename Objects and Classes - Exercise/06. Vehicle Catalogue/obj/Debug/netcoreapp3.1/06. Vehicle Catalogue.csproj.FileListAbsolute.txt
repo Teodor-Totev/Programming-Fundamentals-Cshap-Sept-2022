@@ -1,0 +1,14 @@
+D:\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.exe
+D:\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.deps.json
+D:\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.runtimeconfig.json
+D:\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.runtimeconfig.dev.json
+D:\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.dll
+D:\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.pdb
+D:\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.csproj.AssemblyReference.cache
+D:\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.AssemblyInfo.cs
+D:\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.dll
+D:\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.pdb
+D:\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.genruntimeconfig.cache
