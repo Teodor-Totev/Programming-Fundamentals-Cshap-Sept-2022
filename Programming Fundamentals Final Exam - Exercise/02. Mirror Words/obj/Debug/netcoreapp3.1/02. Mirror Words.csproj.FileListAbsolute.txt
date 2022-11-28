@@ -1,0 +1,14 @@
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.exe
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.deps.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.runtimeconfig.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.runtimeconfig.dev.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.csproj.AssemblyReference.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.AssemblyInfoInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.AssemblyInfo.cs
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.csproj.CoreCompileInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.genruntimeconfig.cache
