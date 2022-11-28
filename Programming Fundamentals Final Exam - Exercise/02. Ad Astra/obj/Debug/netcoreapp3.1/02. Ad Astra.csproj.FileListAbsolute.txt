@@ -1,0 +1,14 @@
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.exe
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.deps.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.runtimeconfig.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.runtimeconfig.dev.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.csproj.AssemblyReference.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.AssemblyInfoInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.AssemblyInfo.cs
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.csproj.CoreCompileInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.genruntimeconfig.cache
