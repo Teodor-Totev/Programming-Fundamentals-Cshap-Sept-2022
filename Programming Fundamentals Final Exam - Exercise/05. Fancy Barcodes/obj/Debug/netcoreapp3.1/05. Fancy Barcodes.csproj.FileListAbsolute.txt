@@ -1,0 +1,14 @@
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\05. Fancy Barcodes\bin\Debug\netcoreapp3.1\05. Fancy Barcodes.exe
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\05. Fancy Barcodes\bin\Debug\netcoreapp3.1\05. Fancy Barcodes.deps.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\05. Fancy Barcodes\bin\Debug\netcoreapp3.1\05. Fancy Barcodes.runtimeconfig.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\05. Fancy Barcodes\bin\Debug\netcoreapp3.1\05. Fancy Barcodes.runtimeconfig.dev.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\05. Fancy Barcodes\bin\Debug\netcoreapp3.1\05. Fancy Barcodes.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\05. Fancy Barcodes\bin\Debug\netcoreapp3.1\05. Fancy Barcodes.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\05. Fancy Barcodes\obj\Debug\netcoreapp3.1\05. Fancy Barcodes.csproj.AssemblyReference.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\05. Fancy Barcodes\obj\Debug\netcoreapp3.1\05. Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\05. Fancy Barcodes\obj\Debug\netcoreapp3.1\05. Fancy Barcodes.AssemblyInfoInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\05. Fancy Barcodes\obj\Debug\netcoreapp3.1\05. Fancy Barcodes.AssemblyInfo.cs
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\05. Fancy Barcodes\obj\Debug\netcoreapp3.1\05. Fancy Barcodes.csproj.CoreCompileInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\05. Fancy Barcodes\obj\Debug\netcoreapp3.1\05. Fancy Barcodes.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\05. Fancy Barcodes\obj\Debug\netcoreapp3.1\05. Fancy Barcodes.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\05. Fancy Barcodes\obj\Debug\netcoreapp3.1\05. Fancy Barcodes.genruntimeconfig.cache
