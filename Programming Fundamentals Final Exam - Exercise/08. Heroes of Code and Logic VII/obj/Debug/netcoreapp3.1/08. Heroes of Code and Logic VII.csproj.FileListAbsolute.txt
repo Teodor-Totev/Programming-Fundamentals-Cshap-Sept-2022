@@ -1,0 +1,14 @@
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\08. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\08. Heroes of Code and Logic VII.exe
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\08. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\08. Heroes of Code and Logic VII.deps.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\08. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\08. Heroes of Code and Logic VII.runtimeconfig.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\08. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\08. Heroes of Code and Logic VII.runtimeconfig.dev.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\08. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\08. Heroes of Code and Logic VII.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\08. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\08. Heroes of Code and Logic VII.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\08. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\08. Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\08. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\08. Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\08. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\08. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\08. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\08. Heroes of Code and Logic VII.AssemblyInfo.cs
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\08. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\08. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\08. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\08. Heroes of Code and Logic VII.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\08. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\08. Heroes of Code and Logic VII.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\08. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\08. Heroes of Code and Logic VII.genruntimeconfig.cache
