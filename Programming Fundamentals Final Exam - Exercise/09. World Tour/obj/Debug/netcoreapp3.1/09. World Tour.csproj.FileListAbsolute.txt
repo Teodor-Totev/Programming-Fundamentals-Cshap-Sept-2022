@@ -1,0 +1,14 @@
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\09. World Tour\bin\Debug\netcoreapp3.1\09. World Tour.exe
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\09. World Tour\bin\Debug\netcoreapp3.1\09. World Tour.deps.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\09. World Tour\bin\Debug\netcoreapp3.1\09. World Tour.runtimeconfig.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\09. World Tour\bin\Debug\netcoreapp3.1\09. World Tour.runtimeconfig.dev.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\09. World Tour\bin\Debug\netcoreapp3.1\09. World Tour.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\09. World Tour\bin\Debug\netcoreapp3.1\09. World Tour.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\09. World Tour\obj\Debug\netcoreapp3.1\09. World Tour.csproj.AssemblyReference.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\09. World Tour\obj\Debug\netcoreapp3.1\09. World Tour.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\09. World Tour\obj\Debug\netcoreapp3.1\09. World Tour.AssemblyInfoInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\09. World Tour\obj\Debug\netcoreapp3.1\09. World Tour.AssemblyInfo.cs
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\09. World Tour\obj\Debug\netcoreapp3.1\09. World Tour.csproj.CoreCompileInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\09. World Tour\obj\Debug\netcoreapp3.1\09. World Tour.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\09. World Tour\obj\Debug\netcoreapp3.1\09. World Tour.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\09. World Tour\obj\Debug\netcoreapp3.1\09. World Tour.genruntimeconfig.cache
