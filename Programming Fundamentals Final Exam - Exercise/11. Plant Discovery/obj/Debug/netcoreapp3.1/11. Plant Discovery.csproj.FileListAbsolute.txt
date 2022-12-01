@@ -1,0 +1,14 @@
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\11. Plant Discovery\bin\Debug\netcoreapp3.1\11. Plant Discovery.exe
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\11. Plant Discovery\bin\Debug\netcoreapp3.1\11. Plant Discovery.deps.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\11. Plant Discovery\bin\Debug\netcoreapp3.1\11. Plant Discovery.runtimeconfig.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\11. Plant Discovery\bin\Debug\netcoreapp3.1\11. Plant Discovery.runtimeconfig.dev.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\11. Plant Discovery\bin\Debug\netcoreapp3.1\11. Plant Discovery.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\11. Plant Discovery\bin\Debug\netcoreapp3.1\11. Plant Discovery.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\11. Plant Discovery\obj\Debug\netcoreapp3.1\11. Plant Discovery.csproj.AssemblyReference.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\11. Plant Discovery\obj\Debug\netcoreapp3.1\11. Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\11. Plant Discovery\obj\Debug\netcoreapp3.1\11. Plant Discovery.AssemblyInfoInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\11. Plant Discovery\obj\Debug\netcoreapp3.1\11. Plant Discovery.AssemblyInfo.cs
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\11. Plant Discovery\obj\Debug\netcoreapp3.1\11. Plant Discovery.csproj.CoreCompileInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\11. Plant Discovery\obj\Debug\netcoreapp3.1\11. Plant Discovery.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\11. Plant Discovery\obj\Debug\netcoreapp3.1\11. Plant Discovery.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\11. Plant Discovery\obj\Debug\netcoreapp3.1\11. Plant Discovery.genruntimeconfig.cache
