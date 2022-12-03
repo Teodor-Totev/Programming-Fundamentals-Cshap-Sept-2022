@@ -1,0 +1,14 @@
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\13. Emoji Detector\bin\Debug\netcoreapp3.1\13. Emoji Detector.exe
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\13. Emoji Detector\bin\Debug\netcoreapp3.1\13. Emoji Detector.deps.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\13. Emoji Detector\bin\Debug\netcoreapp3.1\13. Emoji Detector.runtimeconfig.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\13. Emoji Detector\bin\Debug\netcoreapp3.1\13. Emoji Detector.runtimeconfig.dev.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\13. Emoji Detector\bin\Debug\netcoreapp3.1\13. Emoji Detector.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\13. Emoji Detector\bin\Debug\netcoreapp3.1\13. Emoji Detector.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\13. Emoji Detector\obj\Debug\netcoreapp3.1\13. Emoji Detector.csproj.AssemblyReference.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\13. Emoji Detector\obj\Debug\netcoreapp3.1\13. Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\13. Emoji Detector\obj\Debug\netcoreapp3.1\13. Emoji Detector.AssemblyInfoInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\13. Emoji Detector\obj\Debug\netcoreapp3.1\13. Emoji Detector.AssemblyInfo.cs
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\13. Emoji Detector\obj\Debug\netcoreapp3.1\13. Emoji Detector.csproj.CoreCompileInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\13. Emoji Detector\obj\Debug\netcoreapp3.1\13. Emoji Detector.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\13. Emoji Detector\obj\Debug\netcoreapp3.1\13. Emoji Detector.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\13. Emoji Detector\obj\Debug\netcoreapp3.1\13. Emoji Detector.genruntimeconfig.cache
