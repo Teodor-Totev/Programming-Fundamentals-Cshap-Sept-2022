@@ -1,0 +1,14 @@
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\12. Activation Keys\bin\Debug\netcoreapp3.1\12. Activation Keys.exe
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\12. Activation Keys\bin\Debug\netcoreapp3.1\12. Activation Keys.deps.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\12. Activation Keys\bin\Debug\netcoreapp3.1\12. Activation Keys.runtimeconfig.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\12. Activation Keys\bin\Debug\netcoreapp3.1\12. Activation Keys.runtimeconfig.dev.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\12. Activation Keys\bin\Debug\netcoreapp3.1\12. Activation Keys.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\12. Activation Keys\bin\Debug\netcoreapp3.1\12. Activation Keys.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\12. Activation Keys\obj\Debug\netcoreapp3.1\12. Activation Keys.csproj.AssemblyReference.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\12. Activation Keys\obj\Debug\netcoreapp3.1\12. Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\12. Activation Keys\obj\Debug\netcoreapp3.1\12. Activation Keys.AssemblyInfoInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\12. Activation Keys\obj\Debug\netcoreapp3.1\12. Activation Keys.AssemblyInfo.cs
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\12. Activation Keys\obj\Debug\netcoreapp3.1\12. Activation Keys.csproj.CoreCompileInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\12. Activation Keys\obj\Debug\netcoreapp3.1\12. Activation Keys.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\12. Activation Keys\obj\Debug\netcoreapp3.1\12. Activation Keys.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\12. Activation Keys\obj\Debug\netcoreapp3.1\12. Activation Keys.genruntimeconfig.cache
