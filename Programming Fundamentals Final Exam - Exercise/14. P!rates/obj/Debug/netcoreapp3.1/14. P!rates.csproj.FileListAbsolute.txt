@@ -1,0 +1,14 @@
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\14. P!rates\bin\Debug\netcoreapp3.1\14. P!rates.exe
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\14. P!rates\bin\Debug\netcoreapp3.1\14. P!rates.deps.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\14. P!rates\bin\Debug\netcoreapp3.1\14. P!rates.runtimeconfig.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\14. P!rates\bin\Debug\netcoreapp3.1\14. P!rates.runtimeconfig.dev.json
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\14. P!rates\bin\Debug\netcoreapp3.1\14. P!rates.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\14. P!rates\bin\Debug\netcoreapp3.1\14. P!rates.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\14. P!rates\obj\Debug\netcoreapp3.1\14. P!rates.csproj.AssemblyReference.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\14. P!rates\obj\Debug\netcoreapp3.1\14. P!rates.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\14. P!rates\obj\Debug\netcoreapp3.1\14. P!rates.AssemblyInfoInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\14. P!rates\obj\Debug\netcoreapp3.1\14. P!rates.AssemblyInfo.cs
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\14. P!rates\obj\Debug\netcoreapp3.1\14. P!rates.csproj.CoreCompileInputs.cache
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\14. P!rates\obj\Debug\netcoreapp3.1\14. P!rates.dll
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\14. P!rates\obj\Debug\netcoreapp3.1\14. P!rates.pdb
+D:\repos\03. Programming Fundamentals Final Exam Retake - Lab\14. P!rates\obj\Debug\netcoreapp3.1\14. P!rates.genruntimeconfig.cache
